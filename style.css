@@ -1,0 +1,30 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+h1 {
+background-color: greenyellow;
+color: white;
+text-align: center;
+margin-top: 10px;
+}
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: orchid;
+    padding: 10px;
+
+}
+span {
+    color: aliceblue;
+}
+a {
+    border: 1px solid black;
+    padding: 5px;
+    color: aliceblue;
+    background-color:burlywood;
+    text-decoration: dashed;
+    margin: 40%;
+    
+}
